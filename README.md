@@ -3,4 +3,6 @@
 こんにちは、GitHub！！！！！！！
 
 I love the word Banana.
-but I don't like banana.
+but I don't like banana
+
+yes.
